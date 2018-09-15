@@ -23,9 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/lib/gc.spread.sheets.excel2016darkGray.11.2.1.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/lib/gc.spread.sheets.all.11.2.1.min.js"
+            ]
           },
           "configurations": {
             "production": {
